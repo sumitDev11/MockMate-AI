@@ -1,4 +1,5 @@
 import { ClerkProvider } from "@clerk/nextjs";
+import localFont from "next/font/local";
 import { Toaster } from "@/components/ui/sonner";
 import AuthLayout from "./dashboard/_components/AuthLayout";
 
